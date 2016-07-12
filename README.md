@@ -1,4 +1,4 @@
-# CSS3 Buttons
+# CSS3 Buttons (juanma again)
 
 This is a collection of buttons that show what is possible using CSS3 and other advanced techniques, while maintaining the simplest possible markup. These buttons look best in Chrome and Safari (especially on OSX). They look almost as good in Firefox, with all other browsers falling back to a less-styled button.
 
